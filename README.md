@@ -1,4 +1,7 @@
-## 4-Stroke Engine Project
+## 4-Stroke Engine Project 
+![Screenshot 2024-12-24 133207](https://github.com/user-attachments/assets/3f7b914c-c2d1-45bc-9842-86a94ebe6c2f) 
+
+
 
 This repository contains the SolidWorks design files for a 4-stroke engine assembly. The project includes the main assembly as well as all the individual components used to construct the engine.
 
