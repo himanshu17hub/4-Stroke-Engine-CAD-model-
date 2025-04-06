@@ -1,7 +1,6 @@
 ## 4-Stroke Engine Project 
 ![Screenshot 2024-12-24 133207](https://github.com/user-attachments/assets/3f7b914c-c2d1-45bc-9842-86a94ebe6c2f) 
-
-
+Welcome to the 4-Stroke Engine Project! Developed under the CIM Club of IIT ROPAR, this repository is a showcase of ingenuity and detailed engineering design. It houses all the SolidWorks files for a fully functional 4-stroke engine assembly, where each component—from the crankshaft and connecting rods to the piston and rings—has been meticulously crafted.
 
 This repository contains the SolidWorks design files for a 4-stroke engine assembly. The project includes the main assembly as well as all the individual components used to construct the engine.
 
