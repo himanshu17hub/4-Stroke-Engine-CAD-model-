@@ -22,17 +22,25 @@ The 4-stroke engine design includes detailed models for all the critical compone
   - `nut.SLDPRT` – The nut component.
   - `nail.SLDPRT` – A nail (used for assembly or simulation purposes).
 
-## Getting Started
+## Key Features
 
-### Prerequisites
+- Fully parametric design with accurate dimensions  
+- Realistic assembly with constrained motion  
+- **Motion Analysis** to visualize piston-crankshaft interaction  
+- High-quality rendering for presentation
 
-- **SolidWorks:**  
-  Ensure you have a compatible version of SolidWorks installed to open and work with the provided files.
+---
 
-### Instructions
+## Tools Used
 
-1. **Clone the Repository:**
+- SolidWorks (Modeling, Assembly, Motion Analysis)  
+- SolidWorks Visualize (Rendering)
 
-   ```bash
-   git clone <repository-url>
+## Learning Outcomes
+
+- Developed hands-on experience in modeling complex mechanical systems  
+- Learned the functional anatomy and motion sequence of a 4-stroke engine  
+- Gained skills in advanced **SolidWorks features** like mates, motion studies, and multi-body assemblies  
+- Strengthened understanding of **mechanical design principles** and component interaction  
+- Improved ability to plan and execute a full-scale CAD project independently
 
